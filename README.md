@@ -1,6 +1,6 @@
 # Style_Transfer_NN
 
-An implementation of Neural Style Transfer Network
+An implementation of Neural Style Transfer Network with Tensorflow.
 
 Some results :
 
